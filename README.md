@@ -44,7 +44,7 @@ Special thanks to:
 ## Contact Info
 Feel free to contact me to discuss any issues, questions, or comments.
 
-My contact info can be found on my [Github Page](https://github.com/prasadgujar)
+My contact info can be found on my [Github Page](https://github.com/learnpatel)
 
 ## License
  - TODO
